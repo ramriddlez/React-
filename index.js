@@ -1,0 +1,1 @@
+ReactDOM.render(<ul><li>simran</li><li>deol</li></ul>, document.getElementById ("root"))
